@@ -7,11 +7,12 @@
 ## Top Listings
 
 ### 1. Private Waterfront Villa
-- **Bedrooms:** 5 · **Beds:** 7
+- **Bedrooms:** 5 · **Beds:** ~7–8 (12 guests max policy; bed breakdown not in listing detail)
 - **Total (4 nights):** ~£2,737
 - **Rating:** 5.0★ · Guest Favourite
-- **Highlights:** Waterfront location on the Bay of Kotor, 5.0★ rating, all requirements met
+- **Highlights:** Waterfront stone villa directly on the sea, private mooring, 5.0★ rating, 7 km from Kotor Old Town
 - **Link:** https://www.airbnb.com/rooms/25964514
+- **⚠️ Note:** Listing detail confirms **no pool** — "beach access – beachfront" (swimming dock directly on the Bay of Kotor). Satisfies the pool/beach requirement via beach. Bed breakdown not detailed in listing — 12 guest max across 5 bedrooms suggests 7+ beds. Confirm before booking.
 
 ### 2. Waterfront House Kotor
 - **Bedrooms:** 5 · **Beds:** 5

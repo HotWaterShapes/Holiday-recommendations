@@ -6,25 +6,25 @@
 
 ## Top Listings
 
-### 1. Vila Eleonora with Pool
-- **Bedrooms:** 5 · **Beds:** 10
+### 1. Vila Eleonora with Pool ⭐ Only qualifying listing
+- **Bedrooms:** 5 · **Beds:** 10 (10 guests maximum confirmed in policies)
 - **Total (4 nights):** ~£3,178
 - **Rating:** 5.0★ · Guest Favourite
-- **Highlights:** Pool, 10 beds, perfect rating, villa-style property near Belgrade
+- **Highlights:** Pool confirmed in amenities, AC, Belgrade location confirmed (44.83°N). No party restriction in house rules. 10 guests maximum.
 - **Link:** https://www.airbnb.com/rooms/50847164
 
-### 2. Private Pool Villa
-- **Bedrooms:** 5 · **Beds:** 8
-- **Total (4 nights):** ~£2,932
-- **Rating:** 5.0★ · Superhost
-- **Highlights:** Private pool, Superhost, 8 beds, perfect rating
-- **Link:** https://www.airbnb.com/rooms/51155573
+### Private Pool Villa — ❌ Removed
+- Listing explicitly states "Not suitable for parties" in both house rules and the listing description.
+- Structure is 3 bedrooms on upper floor + 2 independent studio apartments — not 5 traditional bedrooms.
 
 ---
 
+## Proximity
+
+- **Vila Eleonora:** 44.83°N — confirmed within Belgrade city limits. Splavovi floating clubs (Freestyler, Acapulco, Lasta) are on the riverbank in the Savamala district. Estimated **~15 min drive** ✅.
+
 ## Notes
-- Belgrade is famous for its nightlife (Splavovi floating clubs on the river) — arguably the best party scene in the Balkans.
-- Both listings have pools and perfect 5.0★ ratings.
-- Prices are higher than expected for Serbia but still competitive vs. Western Europe.
-- Belgrade is inland — pool is the "should have" criteria here, no beach access.
-- Flights to Belgrade (BEG) are available from most UK airports.
+- Belgrade has one of the best nightlife scenes in the Balkans — Splavovi floating river clubs are open until dawn, entry is typically free.
+- Vila Eleonora at £3,178 is the only qualifying listing. It is within the £3,250 budget.
+- Belgrade is inland — pool is the key amenity here, no beach access.
+- Flights to Belgrade (BEG) from UK airports (Ryanair, Wizz Air, British Airways).

@@ -6,21 +6,7 @@
 
 ## Top Listings
 
-### 1. Casa da Monservia — 5BR, Stunning Views
-- **Bedrooms:** 5 · **Beds:** 7
-- **Total (4 nights):** ~£939
-- **Rating:** 4.99★ · Guest Favourite (100 reviews)
-- **Highlights:** 100 reviews at 4.99★ — exceptional track record. 5BR/7beds, remarkable value. Verify exact location.
-- **Link:** https://www.airbnb.com/rooms/3582943
-
-### 2. Extraordinary Holiday House — 5BR
-- **Bedrooms:** 5 · **Beds:** 7
-- **Total (4 nights):** ~£1,024
-- **Rating:** N/A
-- **Highlights:** 5BR/7beds, comparable price to Casa da Monservia — no reviews, verify carefully
-- **Link:** https://www.airbnb.com/rooms/1018805725900405704
-
-### 3. U House Ericeira — 5BR, Surf Town
+### 1. U House Ericeira — 5BR, Surf Town ⭐ Only qualifying listing
 - **Bedrooms:** 5 · **Beds:** 8
 - **Total (4 nights):** ~£1,804
 - **Rating:** 4.89★ · Guest Favourite (75 reviews)
@@ -29,18 +15,15 @@
 
 ---
 
-## Proximity — ⚠️ VERIFY LOCATION
+## Proximity
 
-- **Casa da Monservia** — "Monservia" is not a well-known Lisbon suburb; likely a rural/coastal property outside the city. If in Sintra/Cascais corridor (~25–35 km from Lisbon centre), proximity to Bairro Alto / Pink Street nightlife is ~30–40 min. ⚠️ Borderline.
-- **Lisbon city nightlife** (Bairro Alto, Cais do Sodré, Pink Street) is concentrated in the old city; a villa with a pool requires suburban or rural location, which adds 20–40 min to the nightlife area.
-- **U House Ericeira:** Ericeira is ~40 km from Lisbon — ❌ FAIL for Lisbon nightlife. Treat as an Ericeira surf-town holiday.
-- **Overall:** Lisbon's urban density makes it difficult to find 5BR pool villas within 20 min of the city's nightlife — unlike resort towns where villas and clubs coexist.
+- **U House Ericeira:** In Ericeira, ~40 km north of Lisbon. FAIL for Lisbon nightlife — treat as an Ericeira destination. ✅ for Ericeira itself.
+- **Casa da Monservia** (removed): listing detail confirms it is in the **Sintra-Cascais Natural Park area, 45 min from Lisbon Airport** — ~50–60 min from Bairro Alto. FAIL.
+- **Extraordinary Holiday House** (removed): in **Fernão Ferro, Setúbal** (38.58°N) — ~30–40 min south of Lisbon. FAIL.
 
 ## Notes
 
-- **Lisbon has excellent nightlife** — Bairro Alto, Cais do Sodré, and LX Factory are world-class. But they're in a dense urban area not suited to large villas.
-- The Lisbon coastal area (Cascais, Estoril, Sintra) is beautiful but adds commute time to the city.
-- **Ericeira** works as a self-contained destination: surf, beach, great food, and an active bar scene. If the group is happy being in Ericeira (not Lisbon), U House Ericeira is a strong pick.
-- Casa da Monservia at £939 for 4 nights with a 4.99★ rating is extraordinary value — but verify the exact drive time to wherever the party is.
-- June in Lisbon: sunny, ~24°C, one of the best months to visit (pre-peak-July crowds, full festival season including Santo António festival on 12–13 June).
-- **Santo António festival (12–13 June):** This falls exactly during the trip — Lisbon's biggest street party. If this is the "party" in the requirements, proximity matters less as the whole city is the venue.
+- **Ericeira** works well as a self-contained destination: surf, beach, great food, and an active bar scene.
+- U House Ericeira beds: listing detail says 5 bedrooms, 10 guests max — bed count not broken down but ample for 7. Pool confirmed. Beachfront access. ✅
+- Lisbon's urban density means 5BR pool villas are always 30+ min from the nightlife. No qualifying Lisbon-proximity listing was found.
+- **Santo António festival (12–13 June)** falls exactly during the trip — Lisbon's biggest street party. Worth noting if the group is open to a city-hotel trip instead.

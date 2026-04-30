@@ -20,7 +20,6 @@
 - **Playa de Palma villa:** ~8 km from Palma city centre, **~10–15 min drive** ✅ PASS
 
 ## Notes
-- The Playa de Palma listing does not specify bed count — **verify 7+ beds before booking**.
-- Mallorca is one of Spain's best villa destinations — huge inventory, beautiful beaches (Es Trenc, Cala d'Or, Alcúdia), excellent food.
-- Most 5BR rural fincas on Mallorca are in the interior or north of the island, well away from Palma nightlife.
-- Mallorca is very well-served by Airbnb — more searching specifically for "Playa de Palma" or "Arenal" should reveal additional qualifying options closer to Palma.
+- **From listing detail:** Located in **Cala Estancia** (Can Pastilla area), waterfront, "5 minutes walk to Puro beach club." No pool in amenities — beach access only. Max 8 guests across 5 bedrooms, so bed count is sufficient for 7 (at least 7 beds implied by 8 guest capacity). ✅ for beds and beach. No private pool.
+- Mallorca is one of Spain's best villa destinations — huge inventory, beautiful beaches, excellent food.
+- More searching specifically for "Playa de Palma" or "Arenal" should reveal additional options, potentially with a pool.

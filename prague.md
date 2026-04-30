@@ -20,13 +20,6 @@
 - **Highlights:** Best value on this list, 5BR/10beds, perfect rating — very affordable
 - **Link:** https://www.airbnb.com/rooms/1491165249709994857
 
-### 3. 7BR Secluded House
-- **Bedrooms:** 7 · **Beds:** 7
-- **Total (4 nights):** ~£3,168
-- **Rating:** 4.95★
-- **Highlights:** 7 bedrooms (one per person), secluded, near Prague
-- **Link:** https://www.airbnb.com/rooms/998627392482207090
-
 ---
 
 ## Notes

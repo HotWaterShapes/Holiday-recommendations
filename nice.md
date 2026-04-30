@@ -22,14 +22,14 @@
 
 ---
 
-## Proximity — Borderline (Big Villa), Fails (St Paul de Vence)
+## Proximity
 
-- **Big Villa (Biot):** Biot is ~20 km from Nice city centre. Driving time via the A8 motorway is **~20–25 min** — borderline/just within requirement. The listing itself says "Antibes 20 mins by bus" and describes Nice as "within easy reach." Treat as borderline.
-- **Villa St Paul de Vence:** Saint-Paul-de-Vence is ~25 km and ~30 min from Nice. Likely fails the 20-min requirement.
-- Notably, **Antibes** and **Juan-les-Pins** (the Riviera nightlife hub near Biot) are only 5–10 min from Biot — if the party is in that area rather than Nice itself, the Big Villa comfortably passes.
+- **Big Villa (Biot, 43.62°N):** confirmed in Biot. ~20 km from Nice via A8, **~20–25 min** ⚠️. To Antibes/Juan-les-Pins: **~5 min** ✅. Bus stop 1 min walk, direct to Antibes (~20 min). Biot train station 4 min by bike → direct trains to Monaco, Nice, Cannes.
+- **Villa St Paul de Vence (Vence, 43.71°N):** confirmed in **Vence** (not St Paul de Vence). ~25 km from Nice, **~30 min drive** ⚠️. Within the 30 min limit.
 
 ## Notes
-- The Big Villa remains arguably the best single find across all cities: 7BR/15beds/pool/sauna/5.0★ for £1,849.
-- Nice/Antibes sits on the French Riviera — Promenade des Anglais, beach clubs, Monaco for a day trip.
-- June is beautiful on the Riviera — warm, sunny, long evenings.
-- **Strongly recommended** — especially if the party hub is Antibes/Juan-les-Pins (right on the doorstep) rather than Nice city itself.
+- **Big Villa beds:** listing detail confirms "6 private bedrooms, 3 bathrooms" at the base price. The 7th bedroom (optional separate apartment) costs extra — the £1,849 price covers 6 bedrooms. Still comfortably accommodates 7 guests (6 rooms for 7 people). Pool, sauna, jacuzzi (seasonal — available Nov–Apr only), garden. ✅
+- **Villa St Paul beds:** 5BR, 11 guests max confirmed. Pool available. Jacuzzi listed as "open from 1 October to 31 May" — **not available in June**. ✅ for pool.
+- The Big Villa is arguably the best single property in the entire search: 6BR, pool, sauna, 5.0★ for £1,849.
+- Nice/Antibes: Promenade des Anglais, beach clubs, Monaco and Cannes for day trips.
+- **Strongly recommended** — especially if the party hub is Antibes/Juan-les-Pins.

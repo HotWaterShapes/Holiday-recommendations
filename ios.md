@@ -15,9 +15,16 @@
 
 ---
 
+## ⚠️ Important — No Road Access
+
+Listing detail confirms: **"The villa is not accessible by road."** Guests reach it via a stone path with steps starting through the Petradi hotel — **10–15 min walk on foot** from the main road. Luggage must be carried in. Rubbish must be carried out at checkout.
+
+- Mylopotas beach: 10 min walk via coastal path ✅
+- Chora (nightlife): 15 min walk ✅
+
 ## Notes
-- Ios is a smaller Cycladic island known as a younger, more party-focused alternative to Mykonos and Santorini.
-- Inventory is very limited for 5BR+ properties on Ios — this is the best (and essentially only) qualifying option found.
-- 10 beds is generous for 7 guests; everyone will have plenty of space.
-- Ios has beautiful beaches (Mylopotas is famous) within easy reach.
-- Consider Mykonos as an alternative if more choice in accommodation is important — similar vibe with more inventory.
+- Ios is a smaller Cycladic island known as a younger, more party-focused alternative to Mykonos — the Chora nightlife is famously lively.
+- No pool at this property — sea access directly below the villa (cove). ✅ for beach requirement.
+- 5 bedrooms, 10 guests max — 7 guests comfortably accommodated. Bed breakdown not provided in listing detail.
+- Unique property: designed and built by celebrated Greek painter Yannis Gaïtis in the 1970s — full of original paintings, sculptures, and art.
+- The no-road-access is a significant practical consideration after a night out.

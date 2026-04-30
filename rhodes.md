@@ -4,36 +4,19 @@
 
 ---
 
-## Top Listings
+## ❌ No Qualifying Listings — Both Options Too Far from Nightlife
 
-### 1. Chrysanthi Villa
-- **Bedrooms:** 5 · **Beds:** 5 double beds (= 10 sleeping capacity)
-- **Total (4 nights):** ~£1,480
-- **Rating:** 4.93★ · Guest Favourite
-- **Highlights:** 5 double beds (comfortable for 7 sharing in pairs), pool, Guest Favourite — excellent value
-- **Link:** https://www.airbnb.com/rooms/659316757243444555
+Both listings were verified via listing details and are far from Faliraki (the main party resort) and Rhodes Old Town:
 
-### 2. Agrolux Oasis — 5BR, 11 Beds
-- **Bedrooms:** 5 · **Beds:** 11
-- **Total (4 nights):** ~£1,556
-- **Rating:** N/A
-- **Highlights:** Most beds of any listing — 11 beds across 5BR, likely a large rural property. Verify proximity.
-- **Link:** https://www.airbnb.com/rooms/664916573427235965
+| Listing | Actual Location | Distance to Faliraki | Drive Time |
+|---------|----------------|---------------------|-----------|
+| Chrysanthi Villa | **Pylonas** (36.11°N, 28.04°E — SE Rhodes coast) | ~50 km | ~60 min ❌ |
+| Agrolux Oasis | **Salakos** (36.29°N, 27.95°E — inland NW Rhodes) | ~40 km via Rhodes Town | ~50 min ❌ |
 
----
-
-## Proximity
-
-- **Faliraki** is the main party resort on Rhodes — ~13 km south of Rhodes Old Town, approximately **15–18 min drive**. ✅ PASS
-- **Rhodes Old Town** has its own vibrant bar and club scene (Bar Street); a villa near the town would be <10 min.
-- **Agrolux Oasis** ("Agrolux" suggests rural/agricultural setting) — verify exact location; if in the interior, may be 25–30 min from Faliraki.
-- Chrysanthi Villa and Executive Seaview are likely coastal, favourable for proximity.
+Faliraki is 13 km south of Rhodes Town. Both villas are on opposite ends of the island from the nightlife.
 
 ## Notes
 
-- **Rhodes is a classic UK party destination** — Faliraki was THE UK lads' holiday spot in the 2000s and retains a strong party scene; Rhodes Old Town offers a more upmarket night out.
-- The island is well-served from UK airports — direct flights from most regional airports in summer.
-- June is shoulder season on Rhodes; slightly quieter than July/August but warm and open.
-- Rhodes has excellent beaches (Lindos, Faliraki, Anthony Quinn Bay) and the UNESCO-listed Old Town.
-- At £1,480–£1,589 for 4 nights, Rhodes is among the cheapest qualifying options in the entire search.
-- Agrolux Oasis's 11 beds makes it the standout for sleeping capacity, but verify location before booking.
+- Rhodes (Faliraki, Rhodes Old Town) remains a great UK party destination.
+- A fresh search specifically for the **Faliraki** or **Rhodes Town** area would be needed to find qualifying villas within 30 min of the nightlife.
+- Chrysanthi Villa (Pylonas) is near Lindos — a scenic area but too remote for a party trip. Agrolux includes a complimentary sunset yacht trip and wine tasting — interesting for a different kind of holiday.

@@ -6,19 +6,21 @@
 
 ## Top Listings
 
-### 1. Sgouris — 8BR, Pool
+### 1. Sgouris — 8BR, Beachfront ⚠️
 - **Bedrooms:** 8 · **Beds:** 10
 - **Total (4 nights):** ~£1,333
 - **Rating:** 4.88★ (26 reviews)
-- **Highlights:** 8BR/10beds — far exceeds bedroom requirements. Pool. Excellent value. Best capacity pick.
+- **Highlights:** 8BR/10beds — far exceeds bedroom requirements. Private beachfront (no pool). Cheapest listing in entire search.
 - **Link:** https://www.airbnb.com/rooms/37548136
+- **⚠️ Note:** Listing detail confirms **no WiFi and no air conditioning**. In June this could be very warm. Also no pool — beach access only (beachfront). Location confirmed in Lefkimmi (southern Corfu, ~5 km from Kavos). ✅ proximity.
 
-### 2. Villa Depiros Corfu — 5BR, Pool
+### 2. Villa Depiros Corfu — 5BR
 - **Bedrooms:** 5 · **Beds:** 8
 - **Total (4 nights):** ~£1,373
 - **Rating:** 5.0★ (3 reviews)
-- **Highlights:** 5BR/8beds, pool, perfect rating — too few reviews to be reliable, but promising
+- **Highlights:** 5BR/8beds, shared beach access. Too few reviews to be fully reliable.
 - **Link:** https://www.airbnb.com/rooms/876517766045564209
+- **⚠️ Note:** Listing detail shows **no pool** in amenities — "shared beach access" only. Location confirmed near Lefkimmi (39.42°N), ~5 km from Kavos. ✅ proximity.
 
 ### 3. Molos Charming House — 5BR
 - **Bedrooms:** 5 · **Beds:** 8

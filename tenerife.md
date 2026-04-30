@@ -29,13 +29,17 @@
 
 ---
 
-## Proximity — ⚠️ DEPENDS ON LOCATION
+## Proximity — ⚠️ All listings in north/east Tenerife
 
-- **El Sauzal** is in the north of Tenerife, near Puerto de la Cruz — approximately **45–55 min drive** from Playa de las Américas/Los Cristianos (south coast party zone). ❌ FAIL for south Tenerife nightlife.
-- **Puerto de la Cruz** (north) has its own nightlife scene; El Sauzal is ~10–15 min from Puerto de la Cruz. ✅ PASS if party is in the north.
-- **Teide View villa** — location depends on exact coordinates; if in the north or centre, same issue applies.
-- **Playa de las Américas** is the main Tenerife party destination (UK clubs, Veronicas Strip). Villas near here would pass.
-- **Recommendation:** If targeting Playa de las Américas / Los Cristianos, search specifically for south Tenerife villas. El Sauzal is excellent but in the wrong part of the island for south-coast nightlife.
+Locations confirmed from listing details:
+
+| Listing | Confirmed Location | Nightlife | Drive |
+|---------|-------------------|-----------|-------|
+| Villa Sabina (El Sauzal) | 28.47°N — El Sauzal, north | Puerto de la Cruz ~10 min ✅ / Playa Américas ~55 min ❌ |
+| Teide View | **Puerto de la Cruz confirmed** (28.41°N) | Puerto de la Cruz — walkable ✅ |
+| Home2Book | **Caletillas, Candelaria** (28.36°N — east coast) | Santa Cruz ~15 min ✅ / Playa Américas ~60 min ❌ |
+
+None of the three are near Playa de las Américas / Los Cristianos (south coast, main UK party zone). All three work if the group parties in **Puerto de la Cruz** or **Santa Cruz**.
 
 ## Notes
 

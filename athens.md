@@ -13,20 +13,12 @@
 - **Highlights:** 7 bedrooms (one per person), garden, pool — great bedroom count for barely more than the 5BR option
 - **Link:** https://www.airbnb.com/rooms/31029562
 
-### 3. Villa Selene with Private Pool
-- **Bedrooms:** 5 · **Beds:** 7
-- **Total (4 nights):** ~£1,763
-- **Rating:** 5.0★ · Guest Favourite
-- **Highlights:** Perfect rating, private pool, 7 beds — the prestige pick in this price range
-- **Link:** https://www.airbnb.com/rooms/679607861111645623
-
 ---
 
 ## Proximity — Borderline ⚠️
 
 - **Villa Duchess (Penteli):** Penteli is ~18 km from Athens city centre (Monastiraki). In light traffic this is ~20–25 min. Within the 30-min maximum.
-- **Villa Selene:** Location not individually verified — check its exact coordinates before booking.
-
 ## Notes
+- **Villa Selene was removed**: listing detail confirmed it is in **Palaia Fokaia** (37.73°N) on the Attica Riviera — approximately 40 km and 40–50 min from Athens. Fails proximity.
+- Villa Duchess (Penteli, 38.04°N) is the only qualifying listing. Confirmed 8 beds from description: 5 queen-size rooms (upper floor) + attic sleeping 3 + ground-floor double = 8+ beds. ✅
 - Athens nightlife (Gazi, Monastiraki, Psiri) is vibrant and accessible by rideshare.
-- Both listed villas are clustered around the same price (~£1,740–1,760) — Villa Duchess gives an extra 2 bedrooms for barely more money.

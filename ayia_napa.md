@@ -7,17 +7,19 @@
 ## Top Listings
 
 ### 1. Anemelia Vacation Home — 7BR, Private Pool
-- **Bedrooms:** 7 · **Beds:** 13
+- **Bedrooms:** 7 · **Beds:** 9 (confirmed via listing detail)
 - **Total (4 nights):** ~£2,870
 - **Rating:** 5.0★ · Guest Favourite (29 reviews)
-- **Highlights:** Exceeds all requirements — 7BR/13beds, pool, highly reliable rating. Best overall pick.
+- **Highlights:** 7BR/9 beds confirmed, heated pool, 7 individual beds for 7 guests easily. Best overall pick.
 - **Link:** https://www.airbnb.com/rooms/658312814296083156
 
+**Bed breakdown confirmed:** "5 bedrooms have a queen-sized bed, 2 bedrooms have two twin beds each" = 5 queens + 4 twins = 9 beds. For 7 guests: 7 beds used, 2 spare. ✅
+
 ### 2. Aegean Villa Protaras — Pool, Sea Views
-- **Bedrooms:** 5 · **Beds:** 8
+- **Bedrooms:** 5 · **Beds:** ~10 (confirmed: sleeps 10–12, policy max 11)
 - **Total (4 nights):** ~£1,676
 - **Rating:** 4.8★
-- **Highlights:** 5BR/8beds, pool, Protaras location (~8 km from Ayia Napa strip). Best value.
+- **Highlights:** 5BR, sleeps 10–12 confirmed, pool (10×5m), Protaras. 15 min drive from Ayia Napa.
 - **Link:** https://www.airbnb.com/rooms/4876020
 
 ---

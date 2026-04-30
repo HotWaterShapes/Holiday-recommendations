@@ -6,14 +6,7 @@
 
 ## Top Listings
 
-### 1. Hungarian Art Nouveau Villa — 5BR, Historic Setting
-- **Bedrooms:** 5 · **Beds:** 10
-- **Total (4 nights):** ~£3,361
-- **Rating:** 4.88★ · Superhost (41 reviews)
-- **Highlights:** 5BR/10beds (most beds of the Budapest listings), Superhost reliability, Art Nouveau property
-- **Link:** https://www.airbnb.com/rooms/791768647635773287
-
-### 2. Horány Villa — 6BR, Danube Island Setting
+### 1. Horány Villa — 6BR, Danube Island Setting
 - **Bedrooms:** 6 · **Beds:** 8
 - **Total (4 nights):** ~£1,619
 - **Rating:** 5.0★ · Superhost

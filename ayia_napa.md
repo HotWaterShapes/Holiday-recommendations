@@ -20,13 +20,6 @@
 - **Highlights:** 5BR/8beds, pool, Protaras location (~8 km from Ayia Napa strip). Best value.
 - **Link:** https://www.airbnb.com/rooms/4876020
 
-### 3. Sea Front 6BR Villa
-- **Bedrooms:** 6 · **Beds:** 6
-- **Total (4 nights):** ~£3,597
-- **Rating:** 4.89★ · Superhost
-- **Highlights:** Superhost, seafront location, 6BR — note only 6 beds (1 guest shares)
-- **Link:** https://www.airbnb.com/rooms/1314187320956358357
-
 ---
 
 ## Proximity — PASS ✅

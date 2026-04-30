@@ -14,20 +14,6 @@
 - **Link:** https://www.airbnb.com/rooms/49771230
 - **⚠️ Note:** Verify the villa is on Kos (not Bodrum/Turkey side) — some listings in this area span the Greek-Turkish maritime boundary.
 
-### 2. Beachfront Villa — 6BR, Superhost
-- **Bedrooms:** 6 · **Beds:** 8
-- **Total (4 nights):** ~£3,959
-- **Rating:** N/A · Superhost
-- **Highlights:** Beachfront, Superhost, 6BR/8beds — premium location and price
-- **Link:** https://www.airbnb.com/rooms/1659965999474499748
-
-### 3. Vila Leonidas — 5BR
-- **Bedrooms:** 5 · **Beds:** 6
-- **Total (4 nights):** ~£2,833
-- **Rating:** N/A (new listing)
-- **Highlights:** 5BR/6beds, note only 6 beds (all 7 guests need their own bed — 1 would share)
-- **Link:** https://www.airbnb.com/rooms/12698560
-
 ---
 
 ## Proximity — PASS ✅ (if in Kos Town / Kardamena area)

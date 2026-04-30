@@ -20,13 +20,6 @@
 - **Highlights:** Most beds of any listing — 11 beds across 5BR, likely a large rural property. Verify proximity.
 - **Link:** https://www.airbnb.com/rooms/664916573427235965
 
-### 3. 6 Bed Executive Seaview Villa
-- **Bedrooms:** 6 · **Beds:** 6
-- **Total (4 nights):** ~£1,589
-- **Rating:** 5.0★ · Guest Favourite
-- **Highlights:** 5.0★ GF, 6BR, sea views — note 6 beds (1 guest shares)
-- **Link:** https://www.airbnb.com/rooms/646396987824375468
-
 ---
 
 ## Proximity

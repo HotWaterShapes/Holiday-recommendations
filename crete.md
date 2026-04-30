@@ -13,20 +13,6 @@
 - **Highlights:** 52 reviews at near-perfect rating — extremely reliable. 6BR/10beds, pool, sea views. Best pick overall.
 - **Link:** https://www.airbnb.com/rooms/690386925302736481
 
-### 2. White House Hersonissos — 6BR, Superhost
-- **Bedrooms:** 6 · **Beds:** 6
-- **Total (4 nights):** ~£2,132
-- **Rating:** 5.0★ · Superhost
-- **Highlights:** Named after Hersonissos — likely very close to the party strip. 6BR but note only 6 beds (1 guest shares).
-- **Link:** https://www.airbnb.com/rooms/649574526964808515
-
-### 3. Villa Sophia — 5BR, Value Pick
-- **Bedrooms:** 5 · **Beds:** 6
-- **Total (4 nights):** ~£1,460
-- **Rating:** N/A (new listing)
-- **Highlights:** Cheapest option, 5BR/6beds — verify location and amenities carefully given no reviews
-- **Link:** https://www.airbnb.com/rooms/657821508379792322
-
 ---
 
 ## Proximity — PASS ✅
@@ -42,5 +28,4 @@
 - June is good: open season but not yet August peak prices or crowds.
 - Crete is the largest Greek island — well-served by charter and scheduled flights from UK airports.
 - The island also offers serious cultural/scenic assets (Knossos Palace, Samaria Gorge, Elafonisi beach) if the group wants day trips.
-- Dievandi's 4.98★ with 52 reviews is one of the most reliable ratings in the entire search — strongly recommended if in budget.
-- At £2,132 for 6BR (White House), this is very competitive for a Superhost property near the action.
+- Dievandi's 4.98★ with 52 reviews is one of the most reliable ratings in the entire search.

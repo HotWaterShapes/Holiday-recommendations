@@ -14,25 +14,13 @@
 - **Link:** https://www.airbnb.com/rooms/3727916
 - **⚠️ Note:** 4.64★ is the lowest rating of any Superhost in this search — check recent reviews carefully before booking.
 
-### 2. Magnificent Villa Costa Brava — 5BR, Beachfront
-- **Bedrooms:** 5 · **Beds:** 8
-- **Total (4 nights):** ~£1,471
-- **Rating:** 5.0★ · Guest Favourite (85 reviews)
-- **Highlights:** 85 reviews at 5.0★ — extremely reliable. Beachfront, 5BR/8beds. Treat as Costa Brava holiday not Barcelona.
-- **Link:** https://www.airbnb.com/rooms/640356283370347929
-
 ---
 
-## Proximity
+## Proximity — PASS ✅
 
-### Park Güell Garden House (Barcelona city)
 - Located in the Gràcia/Park Güell neighbourhood (~41.41N, 2.15E), approximately **3–5 km from Eixample and El Born** nightlife.
-- By taxi: **10–15 min** ✅ PASS
+- By taxi: **10–15 min** ✅
 - Uber/Cabify are readily available in Barcelona.
-
-### Costa Brava Villa
-- Costa Brava begins ~80 km north of Barcelona (near Blanes), with better properties around Begur, Palafrugell, or Cadaqués (~120–150 km).
-- **~1.5–2 hrs from Barcelona nightlife** ❌ FAIL for Barcelona. Treat as a Costa Brava beach holiday.
 
 ## Notes
 

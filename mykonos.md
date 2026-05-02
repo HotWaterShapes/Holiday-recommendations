@@ -34,3 +34,26 @@
 - **Villa Mocha is the recommended pick** — everyone gets their own room, heated pool, and it's comfortably under budget. Villa Mocha has 5 enclosed bedrooms + 1 loft = 6 rooms for 7 guests (one room shares between 2, or the loft room is shared).
 - "Overlooking Greek Archipelago" saves £620 but 2 guests on sofa beds. Decide based on group preference.
 - June is peak season on Mykonos — book immediately.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8189 | 08:10 | 13:55 | 3h45m | £3,957 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £3,236 |
+| **Flights (7 pax)** | £3,957 |
+| **Combined total** | £7,193 |
+| **Per person** | **£1,028** |

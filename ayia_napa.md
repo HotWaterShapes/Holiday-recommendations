@@ -38,3 +38,27 @@
 - **June is ideal** — peak season, warm seas, full club schedule open.
 - Protaras is quieter than Ayia Napa but still has nightlife; if the main party is Ayia Napa Town/Nissi Beach, prefer villas within Ayia Napa rather than Protaras.
 - The Anemelia 7BR at £2,870 for 4 nights represents strong value for 7 guests (~£103/person/night).
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8663 | 15:25 | 22:05 | 4h40m | £1,619 |
+| LGW | British Airways | BA2784 | 09:40 | 16:20 | 4h40m | £2,741 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £2,870 |
+| **Flights (7 pax)** | £1,619 |
+| **Combined total** | £4,489 |
+| **Per person** | **£641** |

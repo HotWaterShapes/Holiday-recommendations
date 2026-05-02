@@ -28,3 +28,11 @@
 - Vila Eleonora at £3,178 is the only qualifying listing. It is within the £3,250 budget.
 - Belgrade is inland — pool is the key amenity here, no beach access.
 - Flights to Belgrade (BEG) from UK airports (Ryanair, Wizz Air, British Airways).
+
+---
+
+## Flights ✈️
+
+❌ **No direct non-Ryanair flights found** from BRS, LGW, or BHX for this destination on these dates.
+
+> Prices sourced May 2026. Direct flights only searched. Ryanair excluded.

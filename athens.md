@@ -22,3 +22,28 @@
 - **Villa Selene was removed**: listing detail confirmed it is in **Palaia Fokaia** (37.73°N) on the Attica Riviera — approximately 40 km and 40–50 min from Athens. Fails proximity.
 - Villa Duchess (Penteli, 38.04°N) is the only qualifying listing. Confirmed 8 beds from description: 5 queen-size rooms (upper floor) + attic sleeping 3 + ground-floor double = 8+ beds. ✅
 - Athens nightlife (Gazi, Monastiraki, Psiri) is vibrant and accessible by rideshare.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8183 | 05:40 | 11:20 | 3h40m | £1,691 |
+| LGW | easyJet | U2 8185 | 14:20 | 20:05 | 3h45m | £2,186 |
+| LGW | SKY express | GQ701 | 13:35 | 19:10 | 3h35m | £2,648 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £1,743 |
+| **Flights (7 pax)** | £1,691 |
+| **Combined total** | £3,434 |
+| **Per person** | **£490** |

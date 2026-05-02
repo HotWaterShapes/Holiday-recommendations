@@ -28,3 +28,11 @@ Listing detail confirms: **"The villa is not accessible by road."** Guests reach
 - 5 bedrooms, 10 guests max — 7 guests comfortably accommodated. Bed breakdown not provided in listing detail.
 - Unique property: designed and built by celebrated Greek painter Yannis Gaïtis in the 1970s — full of original paintings, sculptures, and art.
 - The no-road-access is a significant practical consideration after a night out.
+
+---
+
+## Flights ✈️
+
+❌ **No direct non-Ryanair flights found** from BRS, LGW, or BHX for this destination on these dates.
+
+> Prices sourced May 2026. Direct flights only searched. Ryanair excluded.

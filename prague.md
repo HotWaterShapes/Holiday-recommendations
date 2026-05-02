@@ -29,3 +29,27 @@
 - No beach access; pool/river/lakes serve as the "should have" for the area.
 - Prague city centre is accessible by taxi/rideshare from outskirt villas in ~20–30 min.
 - **Strongly recommended for value** — unbeatable price-to-quality across the shortlist.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8783 | 18:15 | 21:10 | 1h55m | £1,357 |
+| LGW | easyJet | U2 8781 | 12:35 | 15:35 | 2h0m | £1,762 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £1,437 |
+| **Flights (7 pax)** | £1,357 |
+| **Combined total** | £2,794 |
+| **Per person** | **£399** |

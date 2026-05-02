@@ -48,3 +48,33 @@ None of the three are near Playa de las Américas / Los Cristianos (south coast,
 - El Sauzal at £2,009 with 131 reviews is an extraordinary property but works best if the group is happy treating it as a relaxed villa holiday with evenings in Puerto de la Cruz.
 - June weather: ~25°C, sunny, warm Atlantic. Ocean is slightly cooler than Mediterranean in June.
 - Tenerife has more pool-equipped villas per capita than almost any destination in this search.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8037 | 16:20 | 20:50 | 4h30m | £1,276 |
+| LGW | easyJet | U2 8035 | 13:45 | 18:20 | 4h35m | £1,390 |
+| LGW | easyJet | U2 8033 | 07:15 | 11:50 | 4h35m | £1,824 |
+| BRS | easyJet | U2 2731 | 07:00 | 11:15 | 4h15m | £1,909 |
+| BHX | Jet2 | LS1265 | 16:40 | 21:10 | 4h30m | £1,966 |
+| LGW | TUI | BY458 | 15:40 | 20:05 | 4h25m | £1,981 |
+| BRS | Jet2 | LS1891 | 06:15 | 10:30 | 4h15m | £2,118 |
+| LGW | British Airways | BA2700 | 07:05 | 11:20 | 4h15m | £4,699 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £2,009 |
+| **Flights (7 pax)** | £1,276 |
+| **Combined total** | £3,285 |
+| **Per person** | **£469** |

@@ -1,4 +1,5 @@
 - [**Summary & Shortlist**](index.md)
+- [**All Flights**](flights.md)
 
 ---
 

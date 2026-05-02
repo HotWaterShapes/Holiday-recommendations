@@ -39,3 +39,11 @@
 - Note: Several listings in the search area are actually in **Cambrils** (~41.07°N, 1.09°E), a quieter neighbouring town ~5 km west. These were excluded from the picks above.
 - The top pick (6BR, no reviews) needs careful verification. The second pick has a low 4.48★ rating which warrants reading the reviews carefully.
 - Flights to Reus Airport (REU, 10 min from Salou) or Barcelona El Prat (BCN, ~1 hr) from UK airports.
+
+---
+
+## Flights ✈️
+
+❌ **No direct non-Ryanair flights found** from BRS, LGW, or BHX for this destination on these dates.
+
+> Prices sourced May 2026. Direct flights only searched. Ryanair excluded.

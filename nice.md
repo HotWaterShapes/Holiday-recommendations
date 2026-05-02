@@ -33,3 +33,33 @@
 - The Big Villa is arguably the best single property in the entire search: 6BR, pool, sauna, 5.0★ for £1,849.
 - Nice/Antibes: Promenade des Anglais, beach clubs, Monaco and Cannes for day trips.
 - **Strongly recommended** — especially if the party hub is Antibes/Juan-les-Pins.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8427 | 18:15 | 21:20 | 2h5m | £1,835 |
+| LGW | easyJet | U2 8417 | 05:55 | 09:00 | 2h5m | £2,249 |
+| BRS | easyJet | U2 2765 | 11:10 | 14:15 | 2h5m | £2,292 |
+| LGW | easyJet | U2 8419 | 12:20 | 15:25 | 2h5m | £2,544 |
+| LGW | easyJet | U2 8423 | 13:30 | 16:35 | 2h5m | £2,701 |
+| LGW | British Airways | BA2576 | 15:50 | 19:05 | 2h15m | £2,799 |
+| LGW | easyJet | U2 8425 | 11:10 | 14:15 | 2h5m | £2,915 |
+| LGW | British Airways | BA2574 | 10:10 | 13:30 | 2h20m | £3,942 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £1,849 |
+| **Flights (7 pax)** | £1,835 |
+| **Combined total** | £3,684 |
+| **Per person** | **£526** |

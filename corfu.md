@@ -48,3 +48,33 @@
 - June is Kavos's opening month: full schedule of club nights and events.
 - Good UK charter flights to Corfu Airport (CFU), including from most regional airports.
 - Kavos itself has no private pool villas within the strip — pool villas are typically in the surrounding hills/rural areas, which may be 5–10 min drive from Kavos village centre.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8207 | 05:50 | 11:00 | 3h10m | £1,363 |
+| LGW | easyJet | U2 8213 | 16:45 | 22:00 | 3h15m | £1,444 |
+| BHX | TUI | BY7488 | 06:00 | 11:10 | 3h10m | £1,619 |
+| LGW | easyJet | U2 8209 | 08:30 | 13:40 | 3h10m | £1,658 |
+| BHX | Jet2 | LS1223 | 16:30 | 21:50 | 3h20m | £1,760 |
+| LGW | British Airways | BA2754 | 07:15 | 12:35 | 3h20m | £2,935 |
+| LGW | British Airways | BA2760 | 13:45 | 19:05 | 3h20m | £2,935 |
+| LGW | TUI | BY446 | 09:05 | 14:10 | 3h5m | £4,381 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £1,333 |
+| **Flights (7 pax)** | £1,363 |
+| **Combined total** | £2,696 |
+| **Per person** | **£385** |

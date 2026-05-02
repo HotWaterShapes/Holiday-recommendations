@@ -46,3 +46,31 @@
 - June is peak season — excellent weather (~27°C), warm Atlantic, quiet on the volcanic side.
 - Villa Luciano at £1,196 (4 nights) = ~£43/person/night — extraordinary value for a 5BR villa.
 - Lanzarote airport (ACE) has excellent UK connections.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8125 | 15:45 | 20:05 | 4h20m | £510 |
+| LGW | easyJet | U2 8123 | 12:10 | 16:30 | 4h20m | £843 |
+| LGW | easyJet | U2 8121 | 06:15 | 10:25 | 4h10m | £919 |
+| LGW | TUI | BY4460 | 05:55 | 10:05 | 4h10m | £1,572 |
+| BHX | Jet2 | LS1201 | 06:15 | 10:35 | 4h20m | £2,027 |
+| BHX | TUI | BY7446 | 17:45 | 21:55 | 4h10m | £2,429 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £1,196 |
+| **Flights (7 pax)** | £510 |
+| **Combined total** | £1,706 |
+| **Per person** | **£244** |

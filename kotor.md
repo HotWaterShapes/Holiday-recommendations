@@ -29,3 +29,27 @@
 - Waterfront House Kotor has only 5 beds for 7 guests (2 would share) but is lower cost.
 - Kotor is quieter and more scenic than Budva — better for a scenic/cultural trip, Budva better for pure nightlife.
 - Swimming access is directly on the Bay rather than an ocean beach.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| BHX | Jet2 | LS1191 | 07:50 | 11:55 | 3h5m | £2,712 |
+| LGW | easyJet | U2 8811 | 06:35 | 10:30 | 2h55m | £3,317 |
+
+> Via Tivat Airport (TIV) — shared airport with Budva. Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £2,737 |
+| **Flights (7 pax)** | £2,712 |
+| **Combined total** | £5,449 |
+| **Per person** | **£778** |

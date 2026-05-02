@@ -30,3 +30,11 @@
 - Only one listing qualifies with 5BR/7 beds within budget. The 4.71★ rating and 28 reviews means it needs review-checking before booking.
 - Flights to Paros: **no direct UK flights** — ferry from Athens (Piraeus, ~5–6 hrs) or short domestic flight from Athens. This adds a travel day each way.
 - June: warm (~27°C), windy (the Meltemi starts in late June — Paros can be quite breezy).
+
+---
+
+## Flights ✈️
+
+❌ **No direct non-Ryanair flights found** from BRS, LGW, or BHX for this destination on these dates.
+
+> Prices sourced May 2026. Direct flights only searched. Ryanair excluded.

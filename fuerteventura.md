@@ -30,3 +30,27 @@
 - **Corralejo** (north, ~28.7°N) is 45–50 min from Caleta de Fuste — if the group wants the main UK party scene, these villas are not in the right area.
 - At £754 total the V8 villa is worth verifying in full detail before anything else.
 - Direct flights from UK airports (Ryanair, easyJet, Jet2) to Fuerteventura (FUE).
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| BHX | easyJet | U2 6611 | 14:10 | 18:35 | 4h25m | £876 |
+| LGW | easyJet | U2 8041 | 06:20 | 10:35 | 4h15m | £1,233 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £754 |
+| **Flights (7 pax)** | £876 |
+| **Combined total** | £1,630 |
+| **Per person** | **£233** |

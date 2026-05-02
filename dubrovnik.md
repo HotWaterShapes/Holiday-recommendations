@@ -32,3 +32,27 @@ For 7 guests: all fit in dedicated beds. ✅
 - Hedera Estate confirms 8 sleeping places in real beds — our 7 guests all accommodated without sofa.
 - A car is strongly recommended — shops, restaurants, and beaches are not within walking distance of this villa.
 - Private pool confirmed in amenities.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
+|------|---------|--------|---------|---------|----------|--------------|
+| LGW | easyJet | U2 8603 | 16:00 | 19:40 | 2h40m | £1,116 |
+| LGW | easyJet | U2 8601 | 06:50 | 10:35 | 2h45m | £2,154 |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded.
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £2,140 |
+| **Flights (7 pax)** | £1,116 |
+| **Combined total** | £3,256 |
+| **Per person** | **£465** |

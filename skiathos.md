@@ -39,3 +39,11 @@
 - Skiathos has good summer flight connections from UK airports (Jet2, TUI to Skiathos Airport SKI). Direct flights are seasonal.
 - June is ideal: peak season just beginning, warm but not oppressive, fewer crowds than July/August.
 - The island is very small — car hire recommended for exploring beyond the immediate area.
+
+---
+
+## Flights ✈️
+
+❌ **No direct non-Ryanair flights found** from BRS, LGW, or BHX for this destination on these dates.
+
+> Prices sourced May 2026. Direct flights only searched. Ryanair excluded.

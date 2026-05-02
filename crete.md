@@ -28,3 +28,32 @@
 - June is good: open season, not yet August peak.
 - Large private pool (48 m²) confirmed, with children's pool. ✅
 - Dievandi's 4.98★ with 52 reviews is one of the most reliable ratings in the entire search.
+
+---
+
+## Flights ✈️
+
+*Direct flights from UK · 11 Jun 2026 · 7 passengers · Ryanair excluded*
+
+| From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) | Notes |
+|------|---------|--------|---------|---------|----------|--------------|-------|
+| LGW | easyJet | U2 8219 | 22:10 | 04:05+1 | 3h55m | £1,277 | ⚠️ Red-eye |
+| LGW | easyJet | U2 8217 | 16:55 | 22:50 | 3h55m | £1,648 | |
+| LGW | easyJet | U2 8215 | 07:15 | 13:10 | 3h55m | £2,210 | |
+| BHX | TUI | BY7450 | 18:55 | 01:00+1 | 4h5m | £2,581 | |
+| BHX | Jet2 | LS1187 | 05:35 | 11:40 | 4h5m | £2,941 | |
+| LGW | British Airways | BA2758 | 14:35 | 20:50 | 4h15m | £3,127 | |
+| LGW | British Airways | BA2752 | 08:10 | 14:15 | 4h5m | £3,480 | |
+
+> Prices sourced May 2026. Direct flights only. Ryanair excluded. ⚠️ Cheapest flight (U2 8219) is a red-eye departing 22:10, arriving 04:05 — next daytime option is £1,648 (7 pax).
+
+---
+
+## Total Cost per Person
+
+| | |
+|---|---|
+| **Villa (4 nights, 7 pax)** | £2,878 |
+| **Flights (7 pax)** | £1,277 |
+| **Combined total** | £4,155 |
+| **Per person** | **£594** |

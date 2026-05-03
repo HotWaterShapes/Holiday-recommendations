@@ -65,6 +65,7 @@
 | LGW | British Airways | BA2754 | 07:15 | 12:35 | 3h20m | £2,935 |
 | LGW | British Airways | BA2760 | 13:45 | 19:05 | 3h20m | £2,935 |
 | LGW | TUI | BY446 | 09:05 | 14:10 | 3h5m | £4,381 |
+| LHR | British Airways | BA 642 | 08:40 | 13:55 | 3h15m | £8,540 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

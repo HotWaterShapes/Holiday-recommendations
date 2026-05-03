@@ -44,6 +44,7 @@
 | BHX | Jet2 | LS1187 | 05:35 | 11:40 | 4h5m | £2,941 | |
 | LGW | British Airways | BA2758 | 14:35 | 20:50 | 4h15m | £3,127 | |
 | LGW | British Airways | BA2752 | 08:10 | 14:15 | 4h5m | £3,480 | |
+| LHR | British Airways | BA 694 | 10:10 | 16:15 | 4h5m | £5,000 | |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded. ⚠️ Cheapest flight (U2 8219) is a red-eye departing 22:10, arriving 04:05 — next daytime option is £1,648 (7 pax).
 

@@ -1,7 +1,7 @@
 # Flights — All Options
 
 **Route:** Thu 11 Jun → Mon 15 Jun 2026 · 7 passengers · Direct only  
-**Airports:** BRS (Bristol) · LGW (London Gatwick) · BHX (Birmingham)  
+**Airports:** BRS (Bristol) · LGW (London Gatwick) · BHX (Birmingham) · LHR (London Heathrow)  
 **Source:** Google Flights via SerpApi · Prices sourced May 2026
 
 > ⚠️ Ryanair flights are listed for completeness but excluded from all recommendations.
@@ -22,6 +22,7 @@
 | LGW | British Airways | BA2754 | 07:15 | 12:35 | 3h20m | £2,935 | £419 |
 | LGW | British Airways | BA2760 | 13:45 | 19:05 | 3h20m | £2,935 | £419 |
 | LGW | TUI | BY446 | 09:05 | 14:10 | 3h5m | £4,381 | £626 |
+| LHR | British Airways | BA 642 | 08:40 | 13:55 | 3h15m | £8,540 | £1,220 |
 
 ---
 
@@ -33,6 +34,10 @@
 |------|---------|--------|---------|---------|----------|--------------|-----------|
 | LGW | easyJet | U2 8783 | 18:15 | 21:10 | 1h55m | £1,357 | £194 |
 | LGW | easyJet | U2 8781 | 12:35 | 15:35 | 2h0m | £1,762 | £252 |
+| LHR | British Airways | BA 850 | 06:15 | 09:10 | 1h55m | £2,288 | £327 |
+| LHR | British Airways | BA 858 | 20:05 | 22:55 | 1h50m | £2,583 | £369 |
+| LHR | British Airways | BA 852 | 10:15 | 13:15 | 2h0m | £3,136 | £448 |
+| LHR | British Airways | BA 860 | 12:45 | 15:45 | 2h0m | £3,136 | £448 |
 
 ---
 
@@ -66,6 +71,9 @@
 | BRS | easyJet | U2 7508 | 09:20 | 12:00 | 2h40m | £2,469 | £353 |
 | BRS | Jet2 | LS1821 | 06:20 | 09:00 | 2h40m | £2,560 | £366 |
 | LGW | British Airways | BA2662 | 15:55 | 18:50 | 2h55m | £3,143 | £449 |
+| LHR | British Airways | BA 512 | 16:10 | 19:05 | 2h55m | £4,015 | £574 |
+| LHR | British Airways | BA 510 | 09:05 | 12:05 | 3h0m | £4,349 | £621 |
+| LHR | British Airways | BA 514 | 11:30 | 14:25 | 2h55m | £4,358 | £623 |
 
 ---
 
@@ -77,6 +85,7 @@
 |------|---------|--------|---------|---------|----------|--------------|-----------|
 | LGW | easyJet | U2 8603 | 16:00 | 19:40 | 2h40m | £1,116 | £159 |
 | LGW | easyJet | U2 8601 | 06:50 | 10:35 | 2h45m | £2,154 | £308 |
+| LHR | British Airways | BA 836 | 08:10 | 11:55 | 2h45m | £7,701 | £1,100 |
 
 ---
 
@@ -88,6 +97,10 @@
 |------|---------|--------|---------|---------|----------|--------------|-----------|
 | LGW | easyJet | U2 8663 | 15:25 | 22:05 | 4h40m | £1,619 | £231 |
 | LGW | British Airways | BA2784 | 09:40 | 16:20 | 4h40m | £2,741 | £392 |
+| LHR | British Airways | BA 710 | 19:20 | 01:55+1 | 4h35m | £3,061 | £437 |
+| LHR | British Airways | BA 708 | 12:10 | 18:50 | 4h40m | £3,785 | £541 |
+| LHR | British Airways | BA 704 | 07:00 | 13:40 | 4h40m | £3,852 | £550 |
+| LHR | British Airways | BA 706 | 11:15 | 17:55 | 4h40m | £3,890 | £556 |
 
 ---
 
@@ -136,7 +149,15 @@
 | LGW | easyJet | U2 8057 | 09:15 | 12:25 | 2h10m | £2,205 | £315 |
 | BRS | Ryanair ⚠️ | FR3161 | 18:45 | 21:55 | 2h10m | £2,314 | £331 |
 | BRS | easyJet | U2 2705 | 18:35 | 21:40 | 2h5m | £2,414 | £345 |
+| LHR | Vueling | VY 6653 | 20:50 | 00:10+1 | 2h20m | £2,979 | £426 |
+| LHR | British Airways | BA 474 | 07:50 | 11:00 | 2h10m | £3,061 | £437 |
+| LHR | Vueling | VY 6651 | 09:55 | 13:15 | 2h20m | £3,213 | £459 |
 | BRS | easyJet | U2 7192 | 15:10 | 18:15 | 2h5m | £4,009 | £573 |
+| LHR | British Airways | BA 472 | 06:10 | 09:20 | 2h10m | £4,282 | £612 |
+| LHR | British Airways | BA 486 | 19:30 | 22:40 | 2h10m | £4,482 | £640 |
+| LHR | British Airways | BA 478 | 11:00 | 14:15 | 2h15m | £4,987 | £712 |
+| LHR | British Airways | BA 480 | 12:40 | 15:55 | 2h15m | £4,987 | £712 |
+| LHR | British Airways | BA 482 | 15:15 | 18:35 | 2h20m | £5,929 | £847 |
 
 ---
 
@@ -147,6 +168,7 @@
 | From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) | Per person |
 |------|---------|--------|---------|---------|----------|--------------|-----------|
 | LGW | easyJet | U2 8189 | 08:10 | 13:55 | 3h45m | £3,957 | £565 |
+| LHR | British Airways | BA 666 | 06:50 | 12:40 | 3h50m | £7,024 | £1,003 |
 
 ---
 
@@ -163,6 +185,7 @@
 | BHX | Jet2 | LS1187 | 05:35 | 11:40 | 4h5m | £2,941 | £420 | |
 | LGW | British Airways | BA2758 | 14:35 | 20:50 | 4h15m | £3,127 | £447 | |
 | LGW | British Airways | BA2752 | 08:10 | 14:15 | 4h5m | £3,480 | £497 | |
+| LHR | British Airways | BA 694 | 10:10 | 16:15 | 4h5m | £5,000 | £714 | |
 
 ---
 
@@ -179,6 +202,9 @@
 | LGW | easyJet | U2 8423 | 13:30 | 16:35 | 2h5m | £2,701 | £386 |
 | LGW | British Airways | BA2576 | 15:50 | 19:05 | 2h15m | £2,799 | £400 |
 | LGW | easyJet | U2 8425 | 11:10 | 14:15 | 2h5m | £2,915 | £416 |
+| LHR | British Airways | BA 336 | 06:05 | 09:10 | 2h5m | £3,224 | £461 |
+| LHR | British Airways | BA 338 | 20:15 | 23:15 | 2h0m | £3,529 | £504 |
+| LHR | British Airways | BA 342 | 17:20 | 20:35 | 2h15m | £3,691 | £527 |
 | LGW | British Airways | BA2574 | 10:10 | 13:30 | 2h20m | £3,942 | £563 |
 
 ---
@@ -192,6 +218,12 @@
 | LGW | easyJet | U2 8183 | 05:40 | 11:20 | 3h40m | £1,691 | £242 |
 | LGW | easyJet | U2 8185 | 14:20 | 20:05 | 3h45m | £2,186 | £312 |
 | LGW | SKY express | GQ701 | 13:35 | 19:10 | 3h35m | £2,648 | £378 |
+| LHR | British Airways | BA 626 | 07:20 | 13:05 | 3h45m | £3,030 | £433 |
+| LHR | British Airways | BA 638 | 20:45 | 02:25+1 | 3h40m | £3,030 | £433 |
+| LHR | British Airways | BA 634 | 09:20 | 15:15 | 3h55m | £3,354 | £479 |
+| LHR | British Airways | BA 628 | 08:35 | 14:20 | 3h45m | £3,554 | £508 |
+| LHR | British Airways | BA 632 | 13:05 | 19:00 | 3h55m | £3,554 | £508 |
+| LHR | British Airways | BA 630 | 11:10 | 17:05 | 3h55m | £3,744 | £535 |
 
 ---
 
@@ -204,6 +236,7 @@
 | LGW | easyJet | U2 8597 | 12:50 | 16:20 | 2h30m | £2,321 | £332 |
 | BRS | easyJet | U2 2891 | 06:00 | 09:35 | 2h35m | £2,373 | £339 |
 | LGW | easyJet | U2 8599 | 10:40 | 14:10 | 2h30m | £2,568 | £367 |
+| LHR | British Airways | BA 950 | 11:35 | 15:15 | 2h40m | £6,147 | £878 |
 
 ---
 
@@ -253,6 +286,9 @@
 | BHX | Jet2 | LS1275 | 07:30 | 11:00 | 2h30m | £2,194 | £313 |
 | LGW | British Airways | BA2672 | 16:45 | 20:10 | 2h25m | £2,226 | £318 |
 | LGW | British Airways | BA2670 | 08:25 | 11:55 | 2h30m | £3,045 | £435 |
+| LHR | British Airways | BA 494 | 16:00 | 19:35 | 2h35m | £3,908 | £558 |
+| LHR | British Airways | BA 470 | 07:00 | 10:25 | 2h25m | £4,079 | £583 |
+| LHR | British Airways | BA 468 | 08:25 | 11:50 | 2h25m | £7,126 | £1,018 |
 
 ---
 

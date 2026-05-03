@@ -55,6 +55,9 @@
 | BRS | easyJet | U2 7508 | 09:20 | 12:00 | 2h40m | £2,469 |
 | BRS | Jet2 | LS1821 | 06:20 | 09:00 | 2h40m | £2,560 |
 | LGW | British Airways | BA2662 | 15:55 | 18:50 | 2h55m | £3,143 |
+| LHR | British Airways | BA 512 | 16:10 | 19:05 | 2h55m | £4,015 |
+| LHR | British Airways | BA 510 | 09:05 | 12:05 | 3h0m | £4,349 |
+| LHR | British Airways | BA 514 | 11:30 | 14:25 | 2h55m | £4,358 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

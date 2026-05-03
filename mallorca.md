@@ -51,6 +51,9 @@
 | BHX | Jet2 | LS1275 | 07:30 | 11:00 | 2h30m | £2,194 |
 | LGW | British Airways | BA2672 | 16:45 | 20:10 | 2h25m | £2,226 |
 | LGW | British Airways | BA2670 | 08:25 | 11:55 | 2h30m | £3,045 |
+| LHR | British Airways | BA 494 | 16:00 | 19:35 | 2h35m | £3,908 |
+| LHR | British Airways | BA 470 | 07:00 | 10:25 | 2h25m | £4,079 |
+| LHR | British Airways | BA 468 | 08:25 | 11:50 | 2h25m | £7,126 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

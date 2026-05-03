@@ -43,6 +43,7 @@ For 7 guests: all fit in dedicated beds. ✅
 |------|---------|--------|---------|---------|----------|--------------|
 | LGW | easyJet | U2 8603 | 16:00 | 19:40 | 2h40m | £1,116 |
 | LGW | easyJet | U2 8601 | 06:50 | 10:35 | 2h45m | £2,154 |
+| LHR | British Airways | BA 836 | 08:10 | 11:55 | 2h45m | £7,701 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

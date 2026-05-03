@@ -35,6 +35,7 @@
 | LGW | easyJet | U2 8597 | 12:50 | 16:20 | 2h30m | £2,321 |
 | BRS | easyJet | U2 2891 | 06:00 | 09:35 | 2h35m | £2,373 |
 | LGW | easyJet | U2 8599 | 10:40 | 14:10 | 2h30m | £2,568 |
+| LHR | British Airways | BA 950 | 11:35 | 15:15 | 2h40m | £6,147 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

@@ -49,6 +49,10 @@
 |------|---------|--------|---------|---------|----------|--------------|
 | LGW | easyJet | U2 8663 | 15:25 | 22:05 | 4h40m | £1,619 |
 | LGW | British Airways | BA2784 | 09:40 | 16:20 | 4h40m | £2,741 |
+| LHR | British Airways | BA 710 | 19:20 | 01:55+1 | 4h35m | £3,061 |
+| LHR | British Airways | BA 708 | 12:10 | 18:50 | 4h40m | £3,785 |
+| LHR | British Airways | BA 704 | 07:00 | 13:40 | 4h40m | £3,852 |
+| LHR | British Airways | BA 706 | 11:15 | 17:55 | 4h40m | £3,890 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

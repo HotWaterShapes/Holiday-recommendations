@@ -44,6 +44,7 @@
 | From | Airline | Flight | Departs | Arrives | Duration | Total (7 pax) |
 |------|---------|--------|---------|---------|----------|--------------|
 | LGW | easyJet | U2 8189 | 08:10 | 13:55 | 3h45m | £3,957 |
+| LHR | British Airways | BA 666 | 06:50 | 12:40 | 3h50m | £7,024 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

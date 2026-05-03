@@ -50,7 +50,15 @@
 | LGW | Vueling | VY6027 | 13:35 | 16:50 | 2h15m | £2,179 |
 | LGW | easyJet | U2 8057 | 09:15 | 12:25 | 2h10m | £2,205 |
 | BRS | easyJet | U2 2705 | 18:35 | 21:40 | 2h5m | £2,414 |
+| LHR | Vueling | VY 6653 | 20:50 | 00:10+1 | 2h20m | £2,979 |
+| LHR | British Airways | BA 474 | 07:50 | 11:00 | 2h10m | £3,061 |
+| LHR | Vueling | VY 6651 | 09:55 | 13:15 | 2h20m | £3,213 |
 | BRS | easyJet | U2 7192 | 15:10 | 18:15 | 2h5m | £4,009 |
+| LHR | British Airways | BA 472 | 06:10 | 09:20 | 2h10m | £4,282 |
+| LHR | British Airways | BA 486 | 19:30 | 22:40 | 2h10m | £4,482 |
+| LHR | British Airways | BA 478 | 11:00 | 14:15 | 2h15m | £4,987 |
+| LHR | British Airways | BA 480 | 12:40 | 15:55 | 2h15m | £4,987 |
+| LHR | British Airways | BA 482 | 15:15 | 18:35 | 2h20m | £5,929 |
 
 > Prices sourced May 2026. Direct flights only. Ryanair excluded.
 

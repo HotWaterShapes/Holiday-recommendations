@@ -1,5 +1,23 @@
 - [**Summary & Shortlist**](index.md)
-- [**All Flights**](flights.md)
+- [**All Flights** (original)](flights.md)
+
+---
+
+**✈️ Live Flight Search — 11–15 Jun 2026**
+
+- [**All cities ranked**](flights/index.md)
+- [Benidorm 🇪🇸](flights/benidorm.md)
+- [Albufeira 🇵🇹](flights/albufeira.md)
+- [Dubrovnik 🇭🇷](flights/dubrovnik.md)
+- [Prague 🇨🇿](flights/prague.md)
+- [Corfu / Kavos 🇬🇷](flights/corfu.md)
+- [Barcelona 🇪🇸](flights/barcelona.md)
+- [Crete / Hersonissos 🇬🇷](flights/crete.md)
+- [Ayia Napa 🇨🇾](flights/ayia_napa.md)
+- [Belgrade 🇷🇸](flights/belgrade.md)
+- [Budva 🇲🇪](flights/budva.md)
+- [Kotor 🇲🇪](flights/kotor.md)
+- [Mykonos 🇬🇷](flights/mykonos.md)
 
 ---
 
